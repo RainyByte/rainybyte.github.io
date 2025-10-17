@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Themes on Blog of RainyByte</title>
+        <title>Themes on RainyByte</title>
         <link>https://example.com/categories/themes/</link>
-        <description>Recent content in Themes on Blog of RainyByte</description>
+        <description>Recent content in Themes on RainyByte</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>RainyByte</copyright>
